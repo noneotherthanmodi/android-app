@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Birthday</string>
+    <string name="welcome_to_the_app_text">Welcome to the app Ram!</string>
+    <string name="signature_text">from Modi</string>
 </resources>
